@@ -55,7 +55,7 @@ cuatro resistores
 
 
 
-<h3>Ejercicios capito 8</h3>
+<h3>EJERCICIOS CAPITULO 8</h3>
 
 **1. Una fuente de voltaje tiene los valores VS = 300 V y RS = 50 ohms. Conviértala en una fuente de corriente equivalente**
 
