@@ -61,21 +61,21 @@ Ejercicios capito 8
 
 **7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.**
 
-fig 1
+[![fig-1.png](https://i.postimg.cc/05Mpfv4N/fig-1.png)](https://postimg.cc/nMxjFyp8)
 
 
 *** 13. Determine el voltaje del punto A al punto B en la figura 8-73.**
 
-fig 2
+[![fig-2.png](https://i.postimg.cc/qM2yPL4V/fig-2.png)](https://postimg.cc/JG4sJjsP)
 
 **19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.**
 
-fig 3
+[![fig-3.png](https://i.postimg.cc/bwTbJwZm/fig-3.png)](https://postimg.cc/WddtYj6Z)
 
 *** 25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.**
 
-fig 4
+[![fig-4.png](https://i.postimg.cc/5tKCBKqv/fig-4.png)](https://postimg.cc/Z93nZcQK)
 
 **31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.**
 
-fig 5
+[![fig-5.png](https://i.postimg.cc/hjJ7p8pY/fig-5.png)](https://postimg.cc/MMSTGBk0)
