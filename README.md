@@ -55,7 +55,7 @@ cuatro resistores
 
 
 
-Ejercicios capito 8
+<h3>Ejercicios capito 8</h3>
 
 **1. Una fuente de voltaje tiene los valores VS = 300 V y RS = 50 ohms. Conviértala en una fuente de corriente equivalente**
 
@@ -64,7 +64,7 @@ Ejercicios capito 8
 [![fig-1.png](https://i.postimg.cc/05Mpfv4N/fig-1.png)](https://postimg.cc/nMxjFyp8)
 
 
-*** 13. Determine el voltaje del punto A al punto B en la figura 8-73.**
+***13. Determine el voltaje del punto A al punto B en la figura 8-73.**
 
 [![fig-2.png](https://i.postimg.cc/qM2yPL4V/fig-2.png)](https://postimg.cc/JG4sJjsP)
 
